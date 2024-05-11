@@ -3,8 +3,10 @@
 # Datasets
 
 1) Network Intrusion
+2) Phishing Websites
+3) Attacks on IOT Devices
 
-# Models
+# Models/Libraries
 
-1) Random Forset
-2) SVM
+1) Random Forset - SKLearn/XGBoost
+2) SVM - SKLearn/LIBSVM
